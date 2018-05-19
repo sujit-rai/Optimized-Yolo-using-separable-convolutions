@@ -16,3 +16,8 @@ extras:
 yolodws_add.py contains the code for depthwise separable convolution with addition
 basicyolo.py contains the code of actual un optimized network
 shuffle.py contains the code for grouped convolutions using shuffle technique.
+
+
+References :
+
+https://github.com/experiencor/keras-yolo2/blob/master/Yolo%20Step-by-Step.ipynb
