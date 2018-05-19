@@ -1,0 +1,17 @@
+Instructions :
+
+weights.h5 contains the weights of the trained optimized model
+
+weights_actual.h5 contains the original weights of the non-optimized model
+
+yolodws_concat.py contains the code for depthwise separable convolution with concatenation
+
+yolodws_concat_predict.py contains the code for prediction
+
+
+
+
+extras:
+yolodws_add.py contains the code for depthwise separable convolution with addition
+basicyolo.py contains the code of actual un optimized network
+shuffle.py contains the code for grouped convolutions using shuffle technique.
